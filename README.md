@@ -1,1 +1,1 @@
-# healthcare-bigdata-research posters
+# healthcare-bigdata-analytics-research posters
