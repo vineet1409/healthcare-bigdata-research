@@ -28,7 +28,5 @@ Welcome! Below is a curated list of my recent research publications and invited 
 
 ---
 
-> **Feel free to [connect](srivineet93@gmail.com) for collaborations or questions.**
 
----
 
